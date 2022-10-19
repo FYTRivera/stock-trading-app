@@ -1,7 +1,8 @@
 ## Overview
-A Ruby on Rails application that allows users to buy and sell mock stocks. Created by Franco Rivera and Junmark Chi of Avion School Batch 19.
+A Ruby on Rails application that allows users to buy and sell mock stocks. 
+Created by Franco Rivera and Junmark Chi of Avion School Batch 19.
 
-Click (here)[http://avion-stock-trading-app.herokuapp.com/] to view the app!
+Click [here](http://avion-stock-trading-app.herokuapp.com/) to view the app!
 
 #### Sample Accounts
 ##### Sample Account 1
