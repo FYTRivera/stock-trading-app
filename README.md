@@ -5,14 +5,14 @@ Click (here)[http://avion-stock-trading-app.herokuapp.com/] to view the app!
 
 #### Sample Accounts
 ##### Sample Account 1
-email: 'franco123@rivera.com'
+email: `franco123@rivera.com`
 
-password: '123456'
+password: `123456`
 
 ##### Sample Account 2
-email: 'junmark123@chi.com'
+email: `junmark123@chi.com`
 
-password: '123456'
+password: `123456`
 
 ## Features
 * Utilized IEX Finance API to pull the latest information on listed stocks.
